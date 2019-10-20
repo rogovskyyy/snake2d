@@ -1,0 +1,11 @@
+C:\Users\BARTOSZ\source\repos\Console_Snake\Console_Snake\bin\Debug\netcoreapp2.2\Console_Snake.deps.json
+C:\Users\BARTOSZ\source\repos\Console_Snake\Console_Snake\bin\Debug\netcoreapp2.2\Console_Snake.runtimeconfig.json
+C:\Users\BARTOSZ\source\repos\Console_Snake\Console_Snake\bin\Debug\netcoreapp2.2\Console_Snake.runtimeconfig.dev.json
+C:\Users\BARTOSZ\source\repos\Console_Snake\Console_Snake\bin\Debug\netcoreapp2.2\Console_Snake.dll
+C:\Users\BARTOSZ\source\repos\Console_Snake\Console_Snake\bin\Debug\netcoreapp2.2\Console_Snake.pdb
+C:\Users\BARTOSZ\source\repos\Console_Snake\Console_Snake\obj\Debug\netcoreapp2.2\Console_Snake.csprojAssemblyReference.cache
+C:\Users\BARTOSZ\source\repos\Console_Snake\Console_Snake\obj\Debug\netcoreapp2.2\Console_Snake.csproj.CoreCompileInputs.cache
+C:\Users\BARTOSZ\source\repos\Console_Snake\Console_Snake\obj\Debug\netcoreapp2.2\Console_Snake.AssemblyInfoInputs.cache
+C:\Users\BARTOSZ\source\repos\Console_Snake\Console_Snake\obj\Debug\netcoreapp2.2\Console_Snake.AssemblyInfo.cs
+C:\Users\BARTOSZ\source\repos\Console_Snake\Console_Snake\obj\Debug\netcoreapp2.2\Console_Snake.dll
+C:\Users\BARTOSZ\source\repos\Console_Snake\Console_Snake\obj\Debug\netcoreapp2.2\Console_Snake.pdb
